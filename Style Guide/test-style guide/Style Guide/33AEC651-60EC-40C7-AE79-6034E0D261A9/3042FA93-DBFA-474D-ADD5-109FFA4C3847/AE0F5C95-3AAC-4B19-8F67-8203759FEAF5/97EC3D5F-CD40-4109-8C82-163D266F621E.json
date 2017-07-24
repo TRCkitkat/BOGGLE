@@ -90,7 +90,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             10,
-            "OpenSans",
+            "Lato-Regular",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -151,7 +151,7 @@
                 "UID": 22
               },
               "NSRGB": {
-                "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                 "type": "Buffer"
               }
             },
@@ -216,11 +216,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 72,
+    "width": 66,
     "x": 111,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {71, 15}}",
+  "glyphBounds": "{{0, 4}, {66, 10}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -230,12 +230,13 @@
   "lineSpacingBehaviour": 2,
   "name": "nucleoapp.com",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F69C0811-EA95-438D-89D6-A3C17CD85628",
     "endDecorationType": 0,
     "miterLimit": 10,
     "sharedObjectID": "C7764A88-FDC0-4262-8D7A-C9E6781A75BF",
@@ -281,7 +282,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 10,
-                "OpenSans",
+                "Lato-Regular",
                 {
                   "$classes": [
                     "NSMutableDictionary",
@@ -322,7 +323,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                    "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                     "type": "Buffer"
                   }
                 },

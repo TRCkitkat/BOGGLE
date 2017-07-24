@@ -98,7 +98,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             16,
-            "OpenSans-Bold",
+            "Lato-Bold",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -227,7 +227,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {56, 24}}",
+  "glyphBounds": "{{0, 6}, {51, 15}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -289,7 +289,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 16,
-                "OpenSans-Bold",
+                "Lato-Bold",
                 {
                   "$classes": [
                     "NSMutableDictionary",

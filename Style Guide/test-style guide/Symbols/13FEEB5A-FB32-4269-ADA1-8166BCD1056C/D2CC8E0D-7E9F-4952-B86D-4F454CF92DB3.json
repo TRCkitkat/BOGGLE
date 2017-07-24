@@ -90,7 +90,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             10,
-            "OpenSans-Bold",
+            "Lato-Bold",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -110,7 +110,7 @@
               "$class": {
                 "UID": 20
               },
-              "NSAlignment": 2,
+              "NSAlignment": 4,
               "NSMaxLineHeight": 16,
               "NSMinLineHeight": 16,
               "NSTabStops": {
@@ -151,7 +151,7 @@
                 "UID": 22
               },
               "NSRGB": {
-                "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                 "type": "Buffer"
               }
             },
@@ -220,7 +220,7 @@
     "x": 8,
     "y": 8
   },
-  "glyphBounds": "{{0, 0}, {21, 13}}",
+  "glyphBounds": "{{0, 4}, {20, 9}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -288,7 +288,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 10,
-                "OpenSans-Bold",
+                "Lato-Bold",
                 {
                   "$classes": [
                     "NSMutableDictionary",
@@ -329,7 +329,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                    "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                     "type": "Buffer"
                   }
                 },
@@ -374,7 +374,7 @@
                   "$class": {
                     "UID": 4
                   },
-                  "NSAlignment": 2,
+                  "NSAlignment": 4,
                   "NSMaxLineHeight": 16,
                   "NSMinLineHeight": 16,
                   "NSTabStops": {

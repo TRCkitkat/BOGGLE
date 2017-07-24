@@ -90,7 +90,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             10,
-            "OpenSans",
+            "Lato-Regular",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -151,7 +151,7 @@
                 "UID": 22
               },
               "NSRGB": {
-                "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                 "type": "Buffer"
               }
             },
@@ -216,11 +216,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 107,
+    "width": 100,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {107, 13}}",
+  "glyphBounds": "{{0, 4}, {100, 9}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -230,7 +230,7 @@
   "lineSpacingBehaviour": 2,
   "name": "More icons available",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -241,6 +241,7 @@
       "blendMode": 0,
       "opacity": 0.5
     },
+    "do_objectID": "059C8C72-414D-4D1F-8778-7EA58D8C6105",
     "endDecorationType": 0,
     "miterLimit": 10,
     "sharedObjectID": "2F17B9FC-8C03-441A-85F8-D373DB6C2F0E",
@@ -286,7 +287,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 10,
-                "OpenSans",
+                "Lato-Regular",
                 {
                   "$classes": [
                     "NSMutableDictionary",
@@ -327,7 +328,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                    "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                     "type": "Buffer"
                   }
                 },

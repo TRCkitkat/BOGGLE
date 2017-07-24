@@ -98,7 +98,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             16,
-            "OpenSans-Bold",
+            "Lato-Bold",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -223,11 +223,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 131,
+    "width": 118,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {131, 20}}",
+  "glyphBounds": "{{1, 6}, {117, 13}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -237,7 +237,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Product Buttons",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -289,7 +289,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 16,
-                "OpenSans-Bold",
+                "Lato-Bold",
                 {
                   "$classes": [
                     "NSMutableDictionary",

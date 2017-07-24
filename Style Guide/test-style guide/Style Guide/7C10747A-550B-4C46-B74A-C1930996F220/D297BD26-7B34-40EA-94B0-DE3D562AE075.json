@@ -98,7 +98,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             20,
-            "OpenSans",
+            "Lato-Regular",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -159,7 +159,7 @@
                 "UID": 24
               },
               "NSRGB": {
-                "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                 "type": "Buffer"
               }
             },
@@ -228,7 +228,7 @@
     "x": 348,
     "y": 672
   },
-  "glyphBounds": "{{0, 0}, {647, 60}}",
+  "glyphBounds": "{{0, 9}, {595, 50}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -244,6 +244,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9D5A1A23-44F0-4F17-9E4B-6B596DE435F1",
     "endDecorationType": 0,
     "miterLimit": 10,
     "sharedObjectID": "1E523DE4-CB26-4131-99AE-635EC8849157",
@@ -289,7 +290,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 20,
-                "OpenSans",
+                "Lato-Regular",
                 {
                   "$classes": [
                     "NSMutableDictionary",
@@ -330,7 +331,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0.3215686275 0.3803921569 0.4509803922\u0000",
+                    "data": "0.1294117647 0.1294117647 0.1294117647\u0000",
                     "type": "Buffer"
                   }
                 },

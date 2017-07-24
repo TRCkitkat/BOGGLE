@@ -98,7 +98,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             16,
-            "OpenSans",
+            "Lato-Regular",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -224,11 +224,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 82,
+    "width": 76,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {82, 20}}",
+  "glyphBounds": "{{0, 6}, {76, 13}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -239,7 +239,7 @@
   "name": "↳🖊Content",
   "nameIsFixed": true,
   "originalObjectID": "39E8BA5A-F34D-4E6A-957B-15ACECE20C5C",
-  "resizingConstraint": 26,
+  "resizingConstraint": 10,
   "resizingType": 2,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -291,7 +291,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 16,
-                "OpenSans",
+                "Lato-Regular",
                 {
                   "$classes": [
                     "NSMutableDictionary",
