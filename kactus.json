@@ -1,1 +1,7 @@
-{"shareTextStyles": true}
+{
+  "shareTextStyles": true,
+  "shareLayerStyles": true,
+  "sharedPages": [
+    "Symbols"
+  ]
+}
