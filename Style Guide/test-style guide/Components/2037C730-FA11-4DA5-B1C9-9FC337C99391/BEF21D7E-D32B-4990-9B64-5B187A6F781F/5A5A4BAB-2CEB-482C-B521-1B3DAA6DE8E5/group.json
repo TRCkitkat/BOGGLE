@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5A5A4BAB-2CEB-482C-B521-1B3DAA6DE8E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 90,
+    "x": 185,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DA3545A2-140F-4051-8AF6-A226A9EBBCF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E26C7144-B5D9-42E2-AA8C-13AB9748D014"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF6F0C04-D2D8-4946-8040-340ECA7AB120"
+    },
+    {
+      "class": "group",
+      "id": "6C2669A9-9779-453B-BF43-61E09F1FB7B8"
+    }
+  ],
+  "name": "Radio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

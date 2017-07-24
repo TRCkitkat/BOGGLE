@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "EB71E641-FC95-46C8-AF90-E2148EF130EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C9858E5-BA9A-4CD4-8282-97ED6D1678ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39CCF835-DB43-4DD8-8F9F-9099E11A4EF5"
+    }
+  ],
+  "name": "Left Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "EB71E641-FC95-46C8-AF90-E2148EF130EF",
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

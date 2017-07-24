@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "139DC295-3659-4600-95E5-75DAE61E39B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 716,
+    "width": 237,
+    "x": 303,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D79BFBDC-131C-4A2A-B9BD-D99F62911383"
+    },
+    {
+      "class": "text",
+      "id": "BC4CEE03-949E-42E8-89D7-3C2E655528F3"
+    },
+    {
+      "class": "text",
+      "id": "E9A238F7-E08B-4419-B65F-500CCB07CAE0"
+    },
+    {
+      "class": "text",
+      "id": "687B4D20-2BD3-4A3C-8542-A3409DA8CB2E"
+    },
+    {
+      "class": "text",
+      "id": "66FFD372-C244-4411-A571-AE73CA9A3C46"
+    },
+    {
+      "class": "text",
+      "id": "6B6C20B6-8169-444B-ABB1-0BBC7BD21B6D"
+    },
+    {
+      "class": "text",
+      "id": "41D1FF56-B6C8-45FF-AD8C-F0A36679C094"
+    },
+    {
+      "class": "text",
+      "id": "E022CD1F-BDE5-4688-B275-219E25DF7329"
+    },
+    {
+      "class": "text",
+      "id": "CC549669-8128-41B4-AE07-DB4CE1D9612F"
+    },
+    {
+      "class": "text",
+      "id": "3CFDA32E-99B7-4187-9BAE-85D805BF32DE"
+    },
+    {
+      "class": "text",
+      "id": "F4C38841-8999-43C2-B7F6-40DA3310622D"
+    },
+    {
+      "class": "text",
+      "id": "E9CDD474-984D-41BB-A236-E44AC0A40C05"
+    },
+    {
+      "class": "text",
+      "id": "09C98195-2B90-4084-8142-2D5336A24ED6"
+    },
+    {
+      "class": "text",
+      "id": "DCF66BCF-A96E-4F0D-87D5-29DCB892A0E9"
+    },
+    {
+      "class": "text",
+      "id": "5A56D7D1-1FD1-4982-B7B5-00CC824A3FA5"
+    },
+    {
+      "class": "text",
+      "id": "CA5FF9A4-2A94-4FFF-9C4C-E959ECAC4072"
+    },
+    {
+      "class": "text",
+      "id": "FA3967E3-09B0-4BD9-9534-1180BB8AD9C2"
+    },
+    {
+      "class": "text",
+      "id": "C98C9F36-8D27-4B43-8F3F-2D411A652C70"
+    }
+  ],
+  "name": "Warning Fonts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

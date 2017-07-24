@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "EF729397-6AA8-458E-A6F1-47855B1082F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "85A25139-0051-42E6-B971-CB853C1CDAB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C8D45917-5181-4D5D-A03D-F4B26A251085"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B59DAE7E-397B-458C-BE9E-F7BA3E4B31FF"
+    }
+  ],
+  "name": "Icon/Progress",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
